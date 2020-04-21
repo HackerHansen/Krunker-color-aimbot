@@ -10,3 +10,4 @@ This aimbot works by searching the screen for certain colors.
 
 Video coming soon. 
 
+A better version of the cheat is also coming, but it will come at a price... 
