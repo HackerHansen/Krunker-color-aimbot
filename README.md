@@ -1,5 +1,5 @@
-# Krunker-color-aimbot-UNPATCHABLE
-Color-based aimbot for the game krunker.io 
+# Krunker-color-aimbot
+UNPATCHABLE Color-based aimbot for the game krunker.io 
 
 ## MAKE SURE YOU RUN GAME IN FULL SCREEN! 
 ### Otherwise it may not work as well 
