@@ -1,4 +1,4 @@
-# Krunker-color-aimbot
+# Krunker-color-aimbot-UNPATCHABLE
 Color-based aimbot for the game krunker.io 
 
 ## MAKE SURE YOU RUN GAME IN FULL SCREEN! 
