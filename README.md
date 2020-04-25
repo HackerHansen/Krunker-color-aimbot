@@ -16,4 +16,6 @@ This aimbot works by searching the screen for certain colors.
 
 Video coming soon. 
 
+## Not made by "ZaRes X" he just took my code and changed it and claimed it as his 
+
 A better version of the cheat with more features is also coming, but it will come at a price... 
