@@ -18,4 +18,4 @@ Video coming soon.
 
 ### This is the original. Not made by "ZaRes X", his is just this one with the title changed 
 
-A better version of the cheat with more features is also coming, but it will come at a price... 
+A better version of the cheat with more features: https://shoppy.gg/@CheetosFTW/groups/4GxiKea 
