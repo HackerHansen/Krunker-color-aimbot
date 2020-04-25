@@ -16,6 +16,4 @@ This aimbot works by searching the screen for certain colors.
 
 Video coming soon. 
 
-### This is the original. 
-
 A better version of the cheat with more features: https://shoppy.gg/@CheetosFTW/groups/4GxiKea 
