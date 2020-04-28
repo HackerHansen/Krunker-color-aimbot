@@ -43,6 +43,15 @@ Gui, Add, Text, x2 y65, Aim Smooth:
 Gui, Add, Text, x65 y65 vSen w100, 3
 Gui, Add, Slider, x-3 y80 w105 vSense gOui ToolTip Thick8 Range1-10 NoTicks, 3
 Gui, Add, Button, x2 y100 w100 gCreds, CREDITS
+
+MyColor = EEAA99  
+Gui OSD:+LastFound +AlwaysOnTop -Caption +ToolWindow  
+Gui, OSD:Color, %MyColor%
+Gui, OSD:Font, s16  
+Gui, OSD:Add, Text, vMyText cLime, Krunker Aimbot Activated
+Gui, OSD:Add, Text, vMyTexty cRed, https://shoppy.gg/@CheetosFTW/groups/4GxiKea for better version 
+WinSet, TransColor, %MyColor% 155
+Gui, OSD:Show, x0 y0 NoActivate 
 return 
 
 Aimbot: 
