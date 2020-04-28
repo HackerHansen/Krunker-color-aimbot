@@ -3,7 +3,6 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #SingleInstance FORCE 
-;$OBFUSCATOR: $END_AUTOEXECUTE:
 ;OPTIMIZATIONS START
 #MaxHotkeysPerInterval 920000000
 #HotkeyInterval 920000000
@@ -32,6 +31,17 @@ SecondPairX := (MidX + MY)
 SecondPairY := (MidY + MY)
 aimcolor = 0x5064FB
 
+; Create the OSD for the hack: 
+MyColor = EEAA99  
+Gui OSD:+LastFound +AlwaysOnTop -Caption +ToolWindow  
+Gui, OSD:Color, %MyColor%
+Gui, OSD:Font, s24  
+Gui, OSD:Add, Text, vMyText cLime, Krunker Aimbot Activated
+Gui, OSD:Add, Text, vMyTexty cRed, https://shoppy.gg/@CheetosFTW/groups/4GxiKea for better version 
+WinSet, TransColor, %MyColor% 155
+
+Gui, OSD:Show, x0 y0 NoActivate 
+
 Msgbox, CREATED BY HACKERHANSEN 
 Msgbox, Works best on 1080p 
 Msgbox, If you need help be sure to read the readme on the github page. 
@@ -44,6 +54,8 @@ Aimbot will activate if you are aiming close to the target.
 Msgbox, To disable the hack, press the `` button (next to the 1 key)
 
 TrayTip, Krunker Aimbot, Aimbot has started!, 5, 33
+
+
 
 ~RButton::
 {
@@ -66,4 +78,3 @@ return
 `::
 TrayTip, Krunker Aimbot, Aimbot deactivated!, 5, 33
 exitapp
-
