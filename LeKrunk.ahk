@@ -47,7 +47,7 @@ Gui, Add, Button, x2 y100 w100 gCreds, CREDITS
 MyColor = EEAA99  
 Gui OSD:+LastFound +AlwaysOnTop -Caption +ToolWindow  
 Gui, OSD:Color, %MyColor%
-Gui, OSD:Font, s16  
+Gui, OSD:Font, s26  
 Gui, OSD:Add, Text, vMyText cLime, Krunker Aimbot Activated
 Gui, OSD:Add, Text, vMyTexty cRed, https://shoppy.gg/@CheetosFTW/groups/4GxiKea for better version 
 WinSet, TransColor, %MyColor% 155
