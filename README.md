@@ -1,6 +1,8 @@
 # Krunker-color-aimbot
 UNPATCHABLE Color-based aimbot for the game krunker.io 
 
+A better version of the cheat with more features: https://shoppy.gg/@CheetosFTW/groups/4GxiKea 
+
 ## MAKE SURE YOU RUN GAME IN FULL SCREEN! 
 ### Otherwise it may not work as well 
 
@@ -16,4 +18,4 @@ This aimbot works by searching the screen for certain colors.
 
 Video coming soon. 
 
-A better version of the cheat with more features: https://shoppy.gg/@CheetosFTW/groups/4GxiKea 
+
