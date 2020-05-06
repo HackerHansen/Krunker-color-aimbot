@@ -16,6 +16,6 @@ This aimbot works by searching the screen for certain colors.
 ## LeKrunk.ahk was a collab between Leplix and I. However, it only works on 1080p. 
 ### Krunker_Aimbot - public.ahk will work on all resolutions. 
 
-Video coming soon. 
+Videos are released. I'll put the links here later. 
 
 
