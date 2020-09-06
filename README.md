@@ -1,7 +1,7 @@
 # Krunker-color-aimbot
 UNPATCHABLE Color-based aimbot for the game krunker.io 
 
-A better version of the cheat with more features: https://shoppy.gg/@CheetosFTW/groups/4GxiKea 
+## Note: Change ingame saturation setting to 1 for this to work 
 
 ## MAKE SURE YOU RUN GAME IN FULL SCREEN! 
 ### Otherwise it may not work as well 
