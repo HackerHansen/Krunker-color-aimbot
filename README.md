@@ -13,7 +13,7 @@ Download "krunker_aimbot - public.ahk"
 To use, aim in the general direction of the target player, then hold the right mouse button. 
 This aimbot works by searching the screen for certain colors. 
 
-## LeKrunk.ahk was a collab between Leplix and I. However, it only works on 1080p. 
+## LeKrunk.ahk was a collab between Leplix and I. It only works on 1080p. 
 ### Krunker_Aimbot - public.ahk will work on all resolutions. 
 
 
