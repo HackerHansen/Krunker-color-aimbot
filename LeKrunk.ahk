@@ -29,7 +29,7 @@ MidY := A_ScreenHeight / 2
 ;Triggerbot = 0 
 ;Sense = 3
 
-aim := 0x5064FB
+aim := 0x5D56EB
 
 ;GUI===============================
 Gui, Show, x%FirX% y%FirY% w100 h100, Runtime Broker
@@ -59,7 +59,7 @@ Gui, Submit, NoHide
 ~RButton::
 {
 	While GetKeyState("RButton"){
-PixelSearch, TargetX, TargetY, 840, 420, 1080, 660, aim, 20, Fast
+PixelSearch, TargetX, TargetY, 840, 420, 1080, 660, aim, 7, Fast
 If ErrorLevel = 0 
 	Gui, Submit, NoHide 
 	if (AimSet == 1) 
