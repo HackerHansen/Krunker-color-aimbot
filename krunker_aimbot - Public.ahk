@@ -29,7 +29,7 @@ FirstPairX := (MidX - MX)
 FirstPairY := (MidY - MX)
 SecondPairX := (MidX + MY)
 SecondPairY := (MidY + MY)
-aimcolor = 0x5064FB
+aimcolor = 0x5D56EB
 
 ; Create the OSD for the hack: 
 MyColor = EEAA99  
@@ -60,7 +60,7 @@ TrayTip, Krunker Aimbot, Aimbot has started!, 5, 33
 ~RButton::
 {
 	While GetKeyState("RButton"){
-PixelSearch, TargetX, TargetY, FirstPairX, FirstPairY, SecondPairX, SecondPairY, %aimcolor%, 30, Fast
+PixelSearch, TargetX, TargetY, FirstPairX, FirstPairY, SecondPairX, SecondPairY, %aimcolor%, 7, Fast
 If ErrorLevel = 0 
 { 
 TargetX := TargetX + 42
